@@ -8,7 +8,7 @@
 }
 
 body {
-  background: url(/assets/freedom.jpg) no-repeat center center fixed;
+  background: url(assets/freedom.jpg) no-repeat center center fixed;
   background-size: cover;
   text-align: center;
 }
